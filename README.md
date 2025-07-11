@@ -1,6 +1,6 @@
 navigation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;there is no recomended repositories now
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/imlobster/ini.rip/blob/main/inirip.png" alt="inirip" width="16" height="16"> experimental .ini parser but extremely opitmized](https://github.com/imlobster/ini.rip)
 
 info
 
