@@ -5,7 +5,8 @@ navigation
 info
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c# since 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selfemployed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c++ since 2025
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unemployed
 
 species
 
