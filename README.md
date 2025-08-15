@@ -1,6 +1,8 @@
 navigation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/imlobster/ini.rip/blob/main/inirip.png" alt="inirip" width="16" height="16"> experimental .ini parser but extremely opitmized](https://github.com/imlobster/ini.rip)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/imlobster/ini.rip/blob/main/inirip.png?raw=true" alt="inirip" width="16" height="16"> experimental .ini parser but extremely opitmized](https://github.com/imlobster/ini.rip)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/imlobster/wash/blob/main/logo.png?raw=true" alt="inirip" width="16" height="16"> experimental shell for MS CMD but written in batch](https://github.com/imlobster/wash)
 
 info
 
